@@ -6,16 +6,17 @@ Els passos a seguir per a automatitzar una prova unitària d'una solució ja exi
 
 Dins la finestra "Solution Explorer", fem botó dret sobre la solució que es vol testejar. En el menú contextual, cliquem sobre "Add" -> "New Project". 
 Busquem el projecte de tipus "MSTest" i crearem el projecte de test.
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/_img/AC1_MSTest/add_test_project.jpg" width="400" height="300">
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/add_test_project.jpg" width="400" height="300">
 
 **2. Afegir la dependència al projecte**
 
 Des de la finestra "Solution Explorer" -> botó dret sobre el projecte Test -> "Add" -> "Project Reference". 
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/AC1_MSTest/add_reference_test.png" width="400" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/add_reference_test.png" width="400" height="300">
 
 Fem clic al check del projecte que apareix a la finestra i cliquem al botó "Ok".
 
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/_img/AC1_MSTest/project_reference.jpg" width="400" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_reference.jpg" width="400" height="300">
 
 **3. Implementar els mètodes que comprovaran les asercions**
 
@@ -44,7 +45,7 @@ Si es defineix més d'un test, cada mètode ha d'anar precedit de l'atribut *[Te
 **4. Implementar els mètodes que comprovaran les asercions**
 
 Des del menú superior del IDE, fer clic a l'opció "Test -> Run all Tests". El resultat del test unitari es mostrarà en la finestra "Test Explorer" (tant si és vàlid com si ha donat error), així com els mètodes implementats. Per exemple:
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/_img/AC1_MSTest/test_result.jpg" width="400" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/test_result.jpg" width="400" height="300">
 
 **5. Anàlisi de valors límit i errors típics**
 
