@@ -4,11 +4,11 @@ Repositori del bloc de programació, entorns i processos.
 **M03 - Programació**
 
 *UF1. Programació estructurada*
-1. HP CodeWars
-2. Exemples
+1. [HP CodeWars](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/HP%20CodeWars)
+2. [Exemples](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf1)
 
 *UF2. Disseny modular*
-1. Mètodes bàsics
+1. [Mètodes bàsics](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2)
 
 **M05. Entorns de desenvolupament**
 
