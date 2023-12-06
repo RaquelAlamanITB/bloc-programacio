@@ -47,15 +47,22 @@ En aquest cas, els canvis no es pugen directament a la branca master del GitHub.
 
 Per tal que s'afegeixi a la branca master, haurem de fer una petició de validació de codi (pull request, PR)
  
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_pending.jpg"  width="600" height="300">
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_pending.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_data.jpg"  width="600" height="300">
 
-Si tot és correcte, es validarà la petició i es farà el merge amb la branca "master".
+Si tot és correcte, es validarà la petició,
 
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_merge.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_merge.jpg"  width="600" height="300">
 
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_ok.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_merge_comment.jpg"  width="600" height="300">
 
-Finalment, en fer el merge es tanca la tasca al projecte:
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_merged.jpg"  width="600" height="300">
 
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_final.jpg"  width="600" height="300">
+movent l'issue com a "Done". Ens apareixerà un segon issue, amb el comentari del nostre commit:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_merged_done.jpg"  width="600" height="300">
+
+Ara sí podem comprovar que s'ha fet el merge amb la branca "master": 
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_merged_master.jpg"  width="600" height="300">
+
+De cara a una següent funcionalitat, s'haurà de crear un nou issue i la nova branca per a aquesta nova *feature*.
