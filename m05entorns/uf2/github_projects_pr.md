@@ -1,1 +1,61 @@
-GitHub Projects i Pull requests (PR)
+# GitHub Projects i Pull Requests (PR)
+En primer lloc, crearem un projecte base al Visual Studio i crearem el seu repositori Git/GitHub:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/base_project.jpg" width="600" height="300">
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/base_project_github.jpg" width="600" height="300">
+
+A continuació, crearem un projecte dins GitHub:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/github_project.jpg"  width="600" height="300">
+
+**Important!** La visibilitat del projecte ha de ser pública.
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/github_project_visibility.jpg"  width="600" height="300">
+
+Un cop creat el projecte, afegim la primera tasca, fent clic al botó "Add item". Indicarem en la finestra el repositori que gestionarà les funcionalitats i marcarem la *template* "blank issue":
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_new_issue.jpg"  width="600" height="300">
+
+Mostrarà una pantalla en la que indicarem el títol de la tasca i la descripció (opcional). En crear-la com a *issue*, li assignarà un número de tasca (precedit de '#'). Això ens permetrà vincular-la amb les versions del repositori. En cas que la tasca es quedi com a "draft", cal convertir-la en "issue", assignant-la al repositori:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/github_projct_draft_to_issue.jpg"  width="200" height="300">
+
+Movem l'issue a la columna "In progress":
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/github_project_inprogress.jpg"  width="600" height="300">
+
+Si revisem el menú superior, veurem que l'issue apareix al repositori, però no el projecte. Cal vincular el projecte al repositori. Des del menú *Projects*, fem clic al botó "Link a project:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/github_project_linktorepository.jpg"  width="600" height="300">
+
+Implementem la funcionalitat i creem una nova branca per a aquesta (branch per feature) des de Visual Studio, fent checkout per a treballar en aquesta:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_branch.jpg"  width="600" height="300">
+
+Un cop implementada la funcionalitat, fem commit i push a la branca. És molt important que al comentari del codi s'afegeixi la notació següent, que permet tancar la tasca del projecte:
+```Added input validation. Closes #1 ```
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_commit.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_push.jpg"  width="600" height="300">
+
+En aquest cas, els canvis no es pugen directament a la branca master del GitHub. Podem veure que al projecte tampoc es tanca l'issue:
+
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_pending.jpg"  width="600" height="300">
+
+Per tal que s'afegeixi a la branca master, haurem de fer una petició de validació de codi (pull request, PR)
+ 
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_pending.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_pending.jpg"  width="600" height="300">
+
+Si tot és correcte, es validarà la petició i es farà el merge amb la branca "master".
+
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_merge.jpg"  width="600" height="300">
+
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_ok.jpg"  width="600" height="300">
+
+Finalment, en fer el merge es tanca la tasca al projecte:
+
+<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_final.jpg"  width="600" height="300">
