@@ -13,6 +13,7 @@ Repositori del bloc de programació, entorns i processos.
 **M05. Entorns de desenvolupament**
 
 *UF2. Optimització de programari*
-1. [Tutorial Unit Testing](https://github.com/RaquelAlamanITB/bloc-programacio/blob/master/m05entorns/uf2/AC1_MSTest/README.md)
-2. [Tutorial GitHub Projects i Pull Requests](https://github.com/RaquelAlamanITB/bloc-programacio/blob/master/m05entorns/uf2/github_projects_pr.md)
-3. [Exemple de Unit Test d'un mètode void](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m05entorns/uf2/Void_Method_Test)
+1. [Proves funcionals: exemple classes d'equivalència](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/classes_equivalencia.md)
+2. [Tutorial Unit Testing](https://github.com/RaquelAlamanITB/bloc-programacio/blob/master/m05entorns/uf2/AC1_MSTest/README.md)
+3. [Tutorial GitHub Projects i Pull Requests](https://github.com/RaquelAlamanITB/bloc-programacio/blob/master/m05entorns/uf2/github_projects_pr.md)
+4. [Exemple de Unit Test d'un mètode void](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m05entorns/uf2/Void_Method_Test)
