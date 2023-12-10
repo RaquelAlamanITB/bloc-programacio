@@ -40,14 +40,18 @@ Un cop implementada la funcionalitat, fem commit i push a la branca. És molt im
 <img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_commit.jpg"  width="600" height="300">
 <img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_push.jpg"  width="600" height="300">
 
-En aquest cas, els canvis no es pugen directament a la branca master del GitHub. Podem veure que al projecte tampoc es tanca l'issue:
+En aquest cas, els canvis no es pugen directament a la branca *master* del GitHub (aquesta continua sense canvis) però sí que s'han pujat a la branca *feature*:
 
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr.jpg"  width="600" height="300">
-<img src="https://github.com/RaquelAlamanITB/programacio/blob/master/m05ed/uf2/img/github_project_pr_pending.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_master.jpg">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_branch_feature.jpg"  width="600" height="300">
+
+Podem veure que al projecte tampoc es tanca l'issue, ja que aquesta tasca no ha finalitzat:
+
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_project.jpg"  width="600" height="300">
 
 Per tal que s'afegeixi a la branca master, haurem de fer una petició de validació de codi (pull request, PR)
  
-<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_data.jpg"  width="600" height="300">
+<img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr.jpg"  width="600" height="300">
 
 Si tot és correcte, es validarà la petició,
 
@@ -66,3 +70,5 @@ Ara sí podem comprovar que s'ha fet el merge amb la branca "master":
 <img src="https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf2/_img/project_feature_pr_merged_master.jpg"  width="600" height="300">
 
 De cara a una següent funcionalitat, s'haurà de crear un nou issue i la nova branca per a aquesta nova *feature*.
+
+El projecte i les tasques associades es poden consultar en l'enllaç del [Projecte](https://github.com/users/RaquelAlamanITB/projects/8).
