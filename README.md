@@ -9,6 +9,7 @@ Repositori del bloc de programació, entorns i processos.
 
 *UF2. Disseny modular*
 1. [Mètodes bàsics](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2)
+2. [Class libraries DDL](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2/UtilsLibrary)
 
 **M05. Entorns de desenvolupament**
 
