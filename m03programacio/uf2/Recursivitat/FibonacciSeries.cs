@@ -1,7 +1,7 @@
 ﻿using System;
 namespace FibonacciSeries
 {
-    class Program
+    public class Program
     {
         public static int FibonacciSeries(int n)
         {
