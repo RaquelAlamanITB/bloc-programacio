@@ -4,7 +4,7 @@ namespace HanoiTower
     class Program
     {
         private const string MsgMove = "Mou el disc de {0} a {1}.";
-        static void SolveTowers(int n, char fromRod, char toRod, char auxRod)
+        public static void SolveTowers(int n, char fromRod, char toRod, char auxRod)
         {
             if (n > 0)
             {
@@ -15,7 +15,6 @@ namespace HanoiTower
             }
         }
 
-        //  Driver method 
         public static void Main()
         {
             int N = 3;
