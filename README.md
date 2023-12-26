@@ -10,7 +10,8 @@ Repositori del bloc de programació, entorns i processos.
 *UF2. Disseny modular*
 1. [Mètodes bàsics](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2)
 2. [Class libraries DDL](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2/UtilsLibrary)
-
+3. Recursivitat:
+   - [Les N reines](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/NQueens.cs)
 **M05. Entorns de desenvolupament**
 
 *UF2. Optimització de programari*
