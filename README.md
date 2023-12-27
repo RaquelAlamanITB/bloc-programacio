@@ -15,6 +15,8 @@ Repositori del bloc de programació, entorns i processos.
    - [Les Torres de Hanoi](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/HanoiTowers.cs)
    - [Les N reines](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/NQueens.cs)
    - [Binary Search](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/BinarySearch.cs)
+   - [Merge Sort](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/MergeSort.cs)
+   - [QuickSort](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/QuickSort.cs)
 
 **M05. Entorns de desenvolupament**
 
