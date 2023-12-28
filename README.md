@@ -11,6 +11,9 @@ Repositori del bloc de programació, entorns i processos.
 1. [Mètodes bàsics](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2)
 2. [Class libraries DDL](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf2/UtilsLibrary)
 3. Recursivitat:
+   - [Suma recursiva vs Suma iterativa](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/SumaRecIt.cs)
+   - [Potència recursiva](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/PotenciaRec.cs)
+   - [Factorial recursiu vs Factorial](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/FactorialRecIt.cs)
    - [La successió de Fibonacci](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/FibonacciSeries.cs)
    - [Les Torres de Hanoi](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/HanoiTowers.cs)
    - [Les N reines](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/NQueens.cs)
