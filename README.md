@@ -20,6 +20,7 @@ Repositori del bloc de programació, entorns i processos.
    - [Binary Search](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/BinarySearch.cs)
    - [Merge Sort](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/MergeSort.cs)
    - [QuickSort](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/QuickSort.cs)
+4. [Pas d'arguments dins la funció principal (Main)](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/ParsArgs/parse_args.md)
 
 **M05. Entorns de desenvolupament**
 
