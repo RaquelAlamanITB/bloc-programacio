@@ -22,6 +22,14 @@ Repositori del bloc de programació, entorns i processos.
    - [QuickSort](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/Recursivitat/QuickSort.cs)
 4. [Pas d'arguments dins la funció principal (Main)](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf2/ParsArgs/parse_args.md)
 
+*UF3. Fonaments de gestió de fitxers*
+
+**Lectura de fitxers**
+
+1. [File Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileProgram.cs)
+2. [FileStream Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileStreamProgram.cs)
+3. [StreamReader Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/StreamReaderProgram.cs)
+
 **M05. Entorns de desenvolupament**
 
 *UF2. Optimització de programari*
