@@ -30,6 +30,12 @@ Repositori del bloc de programació, entorns i processos.
 2. [FileStream Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileStreamProgram.cs)
 3. [StreamReader Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/StreamReaderProgram.cs)
 
+**Escriptura en fitxers**
+
+1. [File Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileWriteProgram.cs)
+2. [FileStream Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileStreamWriteProgram.cs)
+3. [StreamReader Class]()
+   
 **M05. Entorns de desenvolupament**
 
 *UF2. Optimització de programari*
