@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 
 namespace FileHandling
@@ -12,14 +12,12 @@ namespace FileHandling
 
         public static void FileHandling(string file)
         {
-            string path = Path.GetFullPath("..\\..\\..\\files\\"+file);
-            StreamReader sr = File.OpenText(path);
+            string path = Path.GetFullPath(@"..\..\..\files\" + file);
+            using StreamReader sr = File.OpenText(path);
+            string line;
+            while ((line = sr.ReadLine()) != null)
             {
-                string line;
-                while ((line = sr.ReadLine()) != null)
-                {
-                    Console.WriteLine(line);
-                }
+                Console.WriteLine(line);
             }
         }
     }
