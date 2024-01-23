@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 
@@ -13,8 +13,8 @@ namespace FileHandling
 
         public static void FileHandling(string file)
         {
-            string path = Path.GetFullPath("..\\..\\..\\files\\"+file);
-            FileStream fs = File.OpenRead(path);
+            string path = Path.GetFullPath(@"..\..\..\files\" + file);
+            using FileStream fs = File.OpenRead(path);
             byte[] b = new byte[1024];
             UTF8Encoding temp = new UTF8Encoding(true);
             int readLen;
