@@ -34,7 +34,7 @@ Repositori del bloc de programació, entorns i processos.
 
 1. [File Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileWriteProgram.cs)
 2. [FileStream Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/FileStreamWriteProgram.cs)
-3. [StreamReader Class]()
+3. [StreamReader Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/StreamWriterProgram.cs)
    
 **M05. Entorns de desenvolupament**
 
