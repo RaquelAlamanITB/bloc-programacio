@@ -1,6 +1,5 @@
-﻿using System;
+using System;
 using System.IO;
-
 
 namespace FileHandling
 {
@@ -13,9 +12,14 @@ namespace FileHandling
 
         public static void FileHandling(string file)
         {
-            string path = Path.GetFullPath("..\\..\\..\\files\\" + file);
+            string path = Path.GetFullPath(@"..\..\..\files\" + file);
             if (!File.Exists(path))
             {
+                using StreamWriter sw = File.CreateText(path);
+                sw.WriteLine("Welcome ");
+                sw.WriteLine("to ");
+                sw.WriteLine("File Handling");
+
                 string createText = "Hello world!" + Environment.NewLine;
                 File.WriteAllText(path, createText);
 
