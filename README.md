@@ -37,7 +37,7 @@ Repositori del bloc de programació, entorns i processos.
 3. [StreamReader Class](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m03programacio/uf3/StreamWriterProgram.cs)
    
 *UF4. Programació orientada a objectes*
-1. [Actor: primers exemples](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4)
+1. [Actor: exemple bàsic](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/ActorBasicExample)
 
 **M05. Entorns de desenvolupament**
 
