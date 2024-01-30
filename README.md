@@ -39,6 +39,7 @@ Repositori del bloc de programació, entorns i processos.
 *UF4. Programació orientada a objectes*
 1. [Actor: exemple bàsic](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/ActorBasicExample)
 2. [Actor: exemple amb herència i UML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/FilmInheritanceExample)
+3. [Animal: exemple amb herència i UML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/AnimalInheritance)
 
 **M05. Entorns de desenvolupament**
 
