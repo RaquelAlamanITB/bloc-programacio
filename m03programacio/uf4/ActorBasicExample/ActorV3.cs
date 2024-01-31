@@ -2,7 +2,7 @@ namespace oop
 {
     public class Actor
     {
-		    //propietat: mètode per realitzar operacions sobre els atributs
+	//propietat: mètode per realitzar operacions sobre els atributs
         //des de c# 3 
         public string Name { get; set; }
         public string Surname { get; set; }
