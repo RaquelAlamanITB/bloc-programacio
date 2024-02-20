@@ -4,7 +4,7 @@ namespace Shapes
 {
     public class Sphere : Shape3D
     {
-        public double Radius;
+        public double Radius { get; set; }
         public Sphere(double radius, Colour foreColour, Colour backgroundColour) : base(foreColour, backgroundColour)
         {
             this.Radius = radius;
