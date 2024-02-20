@@ -4,7 +4,7 @@ namespace Shapes
 {
     public class Circle : Shape2D
     {
-        public double Radius;
+        public double Radius { get; set; }
       
         public Circle(double radius, Colour foreColour, Colour backgroundColour) : base(foreColour, backgroundColour) 
             => SetRadius(radius);
