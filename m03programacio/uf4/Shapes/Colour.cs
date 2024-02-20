@@ -4,10 +4,10 @@ namespace Shapes
 {
     public class Colour
     {
-        public string? Name;
-        public int Red;
-        public int Green;
-        public int Blue;
+        public string? Name { get; set; }
+        public int Red { get; set; }
+        public int Green { get; set; }
+        public int Blue { get; set; }
 
         private static int counter = 0;
         public const int MinValue = 0;
