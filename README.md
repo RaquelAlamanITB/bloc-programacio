@@ -41,6 +41,7 @@ Repositori del bloc de programació, entorns i processos.
 2. [Actor: exemple amb herència i UML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/FilmInheritanceExample)
 3. [Animal: exemple amb herència i UML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/AnimalInheritance)
 4. [Shape: exemple amb herència, classes estàtiques i UML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/Shapes)
+5. [Person: exemple amb enumeracions](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/Person)
 
 **M05. Entorns de desenvolupament**
 
