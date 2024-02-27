@@ -43,6 +43,9 @@ Repositori del bloc de programació, entorns i processos.
 4. [Shape: exemple amb herència, classes estàtiques i UML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/Shapes)
 5. [Person: exemple amb enumeracions](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/Person)
 
+*UF5. POO. Classes fonamentals i persistència en BD*
+1. [Generic method i generic class](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/generics)
+
 **M05. Entorns de desenvolupament**
 
 *UF2. Optimització de programari*
@@ -52,3 +55,6 @@ Repositori del bloc de programació, entorns i processos.
 2. [Tutorial Unit Testing](https://github.com/RaquelAlamanITB/bloc-programacio/blob/master/m05entorns/uf2/AC1_MSTest/README.md)
 3. [Tutorial GitHub Projects i Pull Requests](https://github.com/RaquelAlamanITB/bloc-programacio/blob/master/m05entorns/uf2/github_projects_pr.md)
 4. [Exemple de Unit Test d'un mètode void](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m05entorns/uf2/Void_Method_Test)
+
+*UF3. Introducció al disseny orientat a objectes*
+1. [Diagrama de casos d'ús: exemple bàsic](https://github.com/RaquelAlamanITB/bloc-programacio/blob/main/m05entorns/uf3/cas-dus.png)
