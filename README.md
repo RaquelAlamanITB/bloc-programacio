@@ -44,7 +44,7 @@ Repositori del bloc de programació, entorns i processos.
 5. [Person: exemple amb enumeracions](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf4/Person)
 
 *UF5. POO. Classes fonamentals i persistència en BD*
-1. [Generic method i generic class](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/generics)
+1. [Generic methods, generic classes i collections](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/generics)
 
 **M05. Entorns de desenvolupament**
 
