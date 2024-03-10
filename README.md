@@ -45,6 +45,7 @@ Repositori del bloc de programació, entorns i processos.
 
 *UF5. POO. Classes fonamentals i persistència en BD*
 1. [Generic methods, generic classes i collections](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/generics)
+2. [Predicates](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/predicate)
 
 **M05. Entorns de desenvolupament**
 
