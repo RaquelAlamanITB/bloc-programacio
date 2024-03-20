@@ -47,6 +47,7 @@ Repositori del bloc de programació, entorns i processos.
 1. [Generic methods, generic classes i collections](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/generics)
 2. [Delegates](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/delegates)
 3. [Predicates](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/predicate)
+4. [Lectura i creació de documents XML](https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/xmlparsers)
 
 **M05. Entorns de desenvolupament**
 
